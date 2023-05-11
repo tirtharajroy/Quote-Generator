@@ -43,9 +43,8 @@ The application does not require any specific configuration. However, if you enc
 ## Folder Structure
 
 - `public/` - Contains the static files, including the HTML template (`index.html`) and CSS styles (`style.css`).
-- `src/` - Contains the server-side JavaScript files.
   - `app.js` - Defines the Express.js application and routes.
-  - `server.js` - Sets up and starts the server.
+- `server.js` - Sets up and starts the server.
 - `package.json` - Lists the project dependencies and defines various scripts.
 
 ## Contributing
