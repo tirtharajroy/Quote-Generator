@@ -1,0 +1,15 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "A Quote Generator",
+  "type":"module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tirtharaj Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
