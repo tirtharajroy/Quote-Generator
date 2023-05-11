@@ -13,13 +13,13 @@ This is a web application that generates random quotes using Node.js, Express.js
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/tirtharajroy/Quote-Generator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd quote-generator
+   cd Quote-Generator
    ```
 
 3. Install the dependencies:
@@ -50,7 +50,7 @@ The application does not require any specific configuration. However, if you enc
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [issue tracker](https://github.com/your-username/quote-generator/issues).
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [issue tracker](https://github.com/tirtharajroy/Quote-Generator/issues).
 
 If you would like to contribute code to the project, you can fork the repository, make your changes, and submit a pull request.
 
@@ -64,4 +64,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need further assistance, feel free to contact me at [tirtharajroy6@gmail.com](mailto:tirtharajroy6@gmail.com).
